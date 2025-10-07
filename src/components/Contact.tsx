@@ -3,10 +3,9 @@ import { Button } from "./ui/button";
 
 const Contact = () => {
   const socialLinks = [
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
-    { icon: Mail, href: "mailto:your.email@example.com", label: "Email" }
+    { icon: Github, href: "https://github.com/rahulnegi321", label: "GitHub" },
+    { icon: Linkedin, href: "https://linkedin.com/in/rahulnegi123", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:rahulnegi0312303@gmail.com", label: "Email" }
   ];
 
   return (
@@ -51,7 +50,7 @@ const Contact = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-8 py-6 text-lg transition-all hover:shadow-[var(--glow-primary)]"
             asChild
           >
-            <a href="mailto:your.email@example.com">
+            <a href="mailto:rahulnegi0312303@gmail.com">
               <Mail className="w-5 h-5 mr-2" />
               Send Me an Email
             </a>

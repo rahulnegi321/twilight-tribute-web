@@ -2,19 +2,19 @@ const Skills = () => {
   const skillCategories = [
     {
       category: "Frontend",
-      skills: ["React", "TypeScript", "Next.js", "Tailwind CSS", "Vue.js", "HTML5", "CSS3"]
+      skills: ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Material UI"]
     },
     {
       category: "Backend",
-      skills: ["Node.js", "Python", "Express", "FastAPI", "PostgreSQL", "MongoDB", "REST APIs"]
+      skills: ["Node.js", "Express.js", "RESTful APIs", "Socket.IO", "JWT Authentication"]
     },
     {
-      category: "DevOps & Tools",
-      skills: ["Git", "Docker", "AWS", "CI/CD", "Linux", "Webpack", "Nginx"]
+      category: "Databases & Tools",
+      skills: ["MongoDB", "MySQL", "Git", "GitHub", "WebRTC"]
     },
     {
-      category: "Other",
-      skills: ["GraphQL", "Redis", "WebSocket", "Jest", "Figma", "Agile", "Microservices"]
+      category: "Languages & DSA",
+      skills: ["C++", "JavaScript", "SQL", "Data Structures", "Algorithms", "700+ LeetCode"]
     }
   ];
 

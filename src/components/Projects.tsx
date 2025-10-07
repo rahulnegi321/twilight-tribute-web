@@ -4,35 +4,27 @@ import { Button } from "./ui/button";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-featured e-commerce solution with real-time inventory management, payment processing, and admin dashboard.",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80",
-      github: "#",
+      title: "Happy Video Call",
+      description: "A full-stack video conferencing platform with features like peer-to-peer video/audio calls, screen sharing, and real-time chat. Architected for stable connections and efficient state management using the React Context API.",
+      technologies: ["React.js", "Node.js", "WebRTC", "Socket.IO"],
+      image: "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=800&q=80",
+      github: "https://github.com/rahulnegi321/zoom-clone",
+      live: "https://pleasechalja.onrender.com"
+    },
+    {
+      title: "Social Media Backend",
+      description: "A secure and scalable backend API with JWT authentication and bcrypt hashing. Features an MVC architecture with protected routes to handle user authentication, post management, and a commenting system.",
+      technologies: ["Node.js", "Express.js", "MongoDB", "JWT"],
+      image: "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=800&q=80",
+      github: "https://github.com/rahulnegi321/backend-project",
       live: "#"
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates, team chat, and progress tracking features.",
-      technologies: ["TypeScript", "Next.js", "PostgreSQL", "WebSocket"],
-      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80",
-      github: "#",
-      live: "#"
-    },
-    {
-      title: "AI Content Generator",
-      description: "AI-powered content generation tool leveraging GPT models for creating marketing copy and creative content.",
-      technologies: ["Python", "FastAPI", "React", "OpenAI"],
+      title: "AI Article Summarizer",
+      description: "A user-friendly Chrome extension that provides AI-powered article summaries in three distinct formats. Built with Manifest V3 standards to ensure secure storage of user API keys and custom preferences.",
+      technologies: ["Google Gemini API", "JavaScript", "Manifest V3", "Chrome APIs"],
       image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&q=80",
-      github: "#",
-      live: "#"
-    },
-    {
-      title: "Weather Dashboard",
-      description: "Real-time weather monitoring dashboard with interactive maps, forecasts, and historical data visualization.",
-      technologies: ["Vue.js", "D3.js", "Express", "Weather API"],
-      image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&q=80",
-      github: "#",
+      github: "https://github.com/rahulnegi321/AI-Summarizer-Chrome-Extension",
       live: "#"
     }
   ];

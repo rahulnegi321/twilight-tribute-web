@@ -18,16 +18,16 @@ const Hero = () => {
         <div className="space-y-4 section-reveal revealed">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight">
             Hi, I'm{" "}
-            <span className="gradient-text">Your Name</span>
+            <span className="gradient-text">Rahul Negi</span>
           </h1>
           <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground font-light">
-            Software Engineer & Full-Stack Developer
+            Full-Stack Developer & Problem Solver
           </p>
         </div>
         
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto section-reveal revealed delay-200">
-          Crafting elegant solutions to complex problems. Passionate about building 
-          scalable applications and creating exceptional user experiences.
+          Building scalable web applications with modern technologies. B.Tech student at NSUT 
+          with 700+ DSA problems solved and a passion for creating seamless user experiences.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center section-reveal revealed delay-300">

@@ -3,25 +3,18 @@ import { Briefcase } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      company: "Tech Company Name",
-      role: "Senior Software Engineer",
-      period: "2022 - Present",
-      description: "Leading development of scalable web applications using React, Node.js, and cloud technologies. Mentoring junior developers and implementing best practices.",
-      technologies: ["React", "TypeScript", "Node.js", "AWS"]
+      company: "Sky IT Infratech Pvt. Ltd.",
+      role: "Web Development Intern",
+      period: "June 2025 - July 2025",
+      description: "Engineered and maintained reusable front-end components using React.js and Material UI. Collaborated in an Agile development workflow using Git to ensure timely project delivery.",
+      technologies: ["React.js", "Material UI", "Git", "Agile"]
     },
     {
-      company: "Startup Inc.",
-      role: "Full Stack Developer",
-      period: "2020 - 2022",
-      description: "Built and maintained multiple client projects from concept to deployment. Worked closely with design and product teams to deliver exceptional user experiences.",
-      technologies: ["JavaScript", "Python", "PostgreSQL", "Docker"]
-    },
-    {
-      company: "Software Solutions",
-      role: "Junior Developer",
-      period: "2019 - 2020",
-      description: "Developed responsive web applications and contributed to various internal tools. Gained experience in agile development methodologies.",
-      technologies: ["HTML", "CSS", "JavaScript", "Git"]
+      company: "Netaji Subhas University of Technology, Delhi",
+      role: "B.Tech in Information Technology",
+      period: "Expected May 2026",
+      description: "Pursuing Bachelor of Technology with focus on full-stack development, data structures & algorithms. Achieved top 21% ranking on LeetCode with 700+ problems solved. Selected as SpaceCon Hackathon Finalist (Top 20 from 10,000+ participants).",
+      technologies: ["DSA", "Web Development", "Database Systems", "Software Engineering"]
     }
   ];
 

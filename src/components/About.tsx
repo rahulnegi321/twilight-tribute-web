@@ -29,18 +29,19 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 section-reveal">
             <p className="text-lg text-muted-foreground leading-relaxed">
-              I'm a passionate software engineer with expertise in building modern web applications. 
-              With a strong foundation in both frontend and backend technologies, I create seamless 
-              digital experiences that users love.
+              I'm a passionate full-stack developer currently pursuing B.Tech in Information Technology 
+              at Netaji Subhas University of Technology, Delhi (Expected May 2026). With expertise in 
+              React.js, Node.js, and modern web technologies, I create scalable applications that solve 
+              real-world problems.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My journey in tech has been driven by curiosity and a desire to solve real-world problems 
-              through code. I'm constantly learning new technologies and pushing the boundaries of 
-              what's possible in web development.
+              My journey in tech has been marked by consistent achievement - I've solved 700+ DSA problems 
+              on LeetCode and GeeksforGeeks, ranking in the top 21% globally on LeetCode. I was also selected 
+              as a SpaceCon Hackathon Finalist among the top 20 teams from 10,000+ participants nationwide.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              When I'm not coding, you'll find me exploring new technologies, contributing to open-source 
-              projects, or sharing knowledge with the developer community.
+              Beyond coding, I bring leadership experience as a Team Captain in competitive sports and believe 
+              in the power of collaboration to build exceptional digital experiences.
             </p>
           </div>
           
